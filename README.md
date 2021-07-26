@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<!--
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=ayennoui)](https://github.com/mohouyizme/1337-readme)
-
+-->
 <a href="https://github.com/estarossa0?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayeredChoas&theme=dark"/>
 </a>
@@ -11,11 +11,11 @@
 
 ## Skills
 - 👨‍💻 C / C++
-- :terminal: Bash
+- 💻 Bash
+- ⚙️ React, NextJS, NestJS
 - 🐳 Docker / Docker-Compose
 - 🌌 kubernetes
 - 👨‍💻 TypeScript, JavaScript
-- ⚙️ React, NextJS
 - 👁️ CSS, HTML
 - 💽 MySQL, SQL, Mongo, Postgres
 
