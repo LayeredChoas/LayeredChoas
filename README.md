@@ -9,6 +9,16 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LayeredChoas&line_height=40&show_icons=true&theme=dark">
 </a>
 
+## Skills
+- 👨‍💻 C / C++
+- :terminal: Bash
+- 🐳 Docker / Docker-Compose
+- 🌌 kubernetes
+- 👨‍💻 TypeScript, JavaScript
+- ⚙️ React, NextJS
+- 👁️ CSS, HTML
+- 💽 MySQL, SQL, Mongo, Postgres
+
 <!--
 **LayeredChoas/LayeredChoas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
