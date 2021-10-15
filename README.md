@@ -42,14 +42,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayeredChoas&theme=dark"/>
 </a>
 <a href="https://github.com/LayeredChoas?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=LayeredChoas&line_height=40&show_icons=true&theme=dark">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=LayeredChoas&line_height=40&show_icons=true&theme=dark&count_private=true">
 </a>
 <br />
 <br />
 
 My 'Trophy case':
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jimi-1337&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LayeredChoas&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
