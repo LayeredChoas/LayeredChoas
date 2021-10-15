@@ -35,8 +35,9 @@
 <br />
 <br />
 
-
+<!--
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=ayennoui)](https://github.com/mohouyizme/1337-readme)
+-->
 
 <a href="https://github.com/LayeredChoas?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayeredChoas&theme=dark&count_private=true"/>
