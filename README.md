@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my humble git repo, I don't think you noticed it yet, but the O and A are in the wrong order, Hmmm can you guess why ?
+
 ## Skills
 - 👨‍💻 C / C++
 - 💻 Bash
